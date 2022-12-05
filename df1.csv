@@ -1,0 +1,6 @@
+make_model,km,hp_kW,age,price,Gearing_Type
+Audi A3,1647.3626086956522,85.0,0.0,23360,Automatic
+Renault Clio,93473.0,66.0,3.0,11950,Automatic
+Audi A3,68415.0,81.0,3.0,14880,Manual
+Opel Corsa,1647.3626086956522,66.0,0.0,14900,Automatic
+Audi A3,35000.0,110.0,1.0,35000,Semi-automatic
